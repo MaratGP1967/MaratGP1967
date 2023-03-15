@@ -9,6 +9,7 @@
 - `Docker`, `SQL`, `DBUtils`, паттерн `Page Object`, [учебный проект](https://github.com/MaratGP1967/DeadlineSoon)
 - `Docker`, `SQL`, `REST-assured`, паттерн `Page Object`, [учебный проект](https://github.com/MaratGP1967/DeadlineSoonREST)
 - `Allure`, `CI AppVeyor`, [учебный проект](https://github.com/MaratGP1967/DeliveryCardsPatternsAllur)
+- `Selenide`, `DBUtils`, `MySQL`, `PostgreSQL`, паттерн `Page Object`, `Docker`, `Allure`, `CI AppVeyor (2 Jobs)`, [Дипломный проект](https://github.com/MaratGP1967/Diploma_PMG)
 
 
 ### Сертификаты Нетологии
@@ -17,7 +18,11 @@
 - [HTML и CSS для тестировщиков](https://github.com/MaratGP1967/Certificates/blob/main/3_HTML_%D0%B8_CSS.pdf)
 - [Java для тестировщиков](https://github.com/MaratGP1967/Certificates/blob/main/4_Java.pdf)
 - [Автоматизированное тестирование](https://github.com/MaratGP1967/Certificates/blob/main/5_%D0%90%D0%B2%D1%82%D0%BE.pdf)
+- [Дипломный блок](https://github.com/MaratGP1967/Certificates/blob/main/6_Diplom.png)
+- [Тестировщик ПО](https://github.com/MaratGP1967/Certificates/blob/main/7_Test.pdf)
 
+### Успехи при обучении
+[Страничка успехов при обучении в Нетологии](https://netolo.gy/uYr)
 
 
 
