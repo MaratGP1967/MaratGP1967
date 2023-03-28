@@ -1,5 +1,5 @@
 ## Привет!
-### Меня зовут Полянский Марат, учусь в `Нетологии` - направление `«Программирование»`, курс `«Тестировщик»` 
+### Меня зовут Полянский Марат, завершил обучение в `Нетологии` - направление `«Программирование»`, курс `«Тестировщик»` 
 ### Вот чему меня научили:
 - Ручное тестирование, [курсовая работа](https://github.com/MaratGP1967/Manual-testing)
 - `Java` для тестировщиков (покрытие кода `JaCoCo`, `CI Github Actions`), [командный проект](https://github.com/MaratGP1967/javaqa-team-diplom)
@@ -20,6 +20,9 @@
 - [Автоматизированное тестирование](https://github.com/MaratGP1967/Certificates/blob/main/5_%D0%90%D0%B2%D1%82%D0%BE.pdf)
 - [Дипломный блок](https://github.com/MaratGP1967/Certificates/blob/main/6_Diplom.png)
 - [Тестировщик ПО](https://github.com/MaratGP1967/Certificates/blob/main/7_Test.pdf)
+
+### Диплом
+- [Специалист по тестированию в области ИТ](https://github.com/MaratGP1967/Certificates/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%A2%D0%B5%D1%81%D1%82%D0%B5%D1%80.pdf)
 
 ### Успехи при обучении
 [Страничка успехов при обучении в Нетологии](https://netolo.gy/uYr)
